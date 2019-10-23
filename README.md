@@ -4,7 +4,7 @@ Supplementary data files associated with Chhatre et al. (2019) "Climatic niche p
 
 File inventory and description:
 
-* _203Outliers_SNP2GO.csv_
+* _203Outliers_SNP2GO.csv_  
 Functional GO-term enrichment output based on SNP2GO analysis of 203 large effect adaptation outliers 
 
 * _814Outliers_annotations.csv_   
