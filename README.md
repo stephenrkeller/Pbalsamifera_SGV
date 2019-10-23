@@ -22,7 +22,7 @@ Individual loading scores from a Principal Components analysis of 508 individual
 * _DE_annotation_117genes.csv_  
 Gene annotation information for outlier SNP associated genes (N=117 genes) shown to be differentially expressed in response to drought or beetle/mechanical wounding.  Differential expression data and annotation informatoin obtained from popgenie.org
 
-* _balsam_only_chr1-19_508inds_167324snp.vcf.tar.gz_
+* _balsam_only_chr1-19_508inds_167324snp.vcf.tar.gz_  
 Genotype file in variant call format (vcf) for 508 P. balsamifera individuals genotyped at 167K SNP loci
 
 * _pq_PAInorm_2dist_51pops.csv_  
